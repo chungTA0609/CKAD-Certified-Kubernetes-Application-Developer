@@ -58,6 +58,7 @@ markdown_extensions:
 
 nav:
   - Home: README.md
+  - "Kiến thức CKAD (VN)": KIEN-THUC-CKAD.md
   - Exercises:
     - "01 — Pod Basics": exercises/01-pod-basics/README.md
     - "02 — Multi-Container Pod": exercises/02-multi-container-pod/README.md
